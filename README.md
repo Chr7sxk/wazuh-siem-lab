@@ -1,4 +1,3 @@
-# wazuh-siem-lab
 # Wazuh SIEM Threat Detection Lab
 
 A fully isolated attack/defense lab built to simulate real-world cyberattacks and detect them using a self-configured SIEM. This project covers network architecture, agent deployment, live attack execution, and custom detection rule authoring.
