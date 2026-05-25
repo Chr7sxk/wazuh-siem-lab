@@ -56,6 +56,9 @@ The Wazuh agent on Kali generated **300+ alerts** from attack activity including
 - Suspicious port activity
 - MITRE ATT&CK tagged events: **T1046** (Network Service Scanning), **T1110** (Brute Force)
 
+<img width="1280" height="444" alt="image" src="https://github.com/user-attachments/assets/f58d9e62-197a-4536-93bc-0b9e345647ba" />
+
+
 ### 5. Custom Detection Rules
 Authored custom XML detection rules in `/var/ossec/etc/rules/local_rules.xml`:
 
@@ -81,13 +84,6 @@ Rule 100002 successfully fired at **level 12 (high severity)** and appeared in t
 - Understood how SIEM agents, log shippers, and alerting engines work together in a real environment
 - Learned how to write and validate custom detection rules mapped to MITRE ATT&CK
 - Troubleshot real infrastructure issues: network binding, service initialization, agent configuration, and XML rule syntax
-
----
-
-## Certifications
-CompTIA Security+ · Network+ · A+ · Tech+ · CSIS · CIOS · Cisco Networking CompCert · TestOUT Security PRO · Linux PRO · PC PRO
-
-*CySA+ in progress*
 
 ---
 
