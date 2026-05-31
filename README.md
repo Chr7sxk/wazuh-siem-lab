@@ -1,7 +1,3 @@
-# wazuh-siem-lab
-Wazuh SIEM deployed in isolated VirtualBox lab — live attack execution, 300+ events captured, MITRE ATT&CK mapping, custom XML detection rules
-
-
 # Wazuh SIEM Threat Detection Lab
 
 A fully isolated attack/defense lab built to simulate real-world cyberattacks and detect them using a self-configured SIEM. This project covers network architecture, agent deployment, live attack execution, and custom detection rule authoring.
