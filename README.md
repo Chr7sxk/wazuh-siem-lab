@@ -86,7 +86,3 @@ Rule 100002 successfully fired at **level 12 (high severity)** and appeared in t
 - Troubleshot real infrastructure issues: network binding, service initialization, agent configuration, and XML rule syntax
 
 ---
-
-## Connect
-- LinkedIn: [linkedin.com/in/kevin-escandon](https://linkedin.com/in/kevin-escandon)
-- Email: kevinchristian.escandon@gmail.com
